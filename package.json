@@ -1,0 +1,26 @@
+{
+  "name": "graph-ql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastian-mcpe/graph-ql-api.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "Node",
+    "Typescript",
+    "API"
+  ],
+  "author": "sebastian-mcpe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebastian-mcpe/graph-ql-api/issues"
+  },
+  "homepage": "https://github.com/sebastian-mcpe/graph-ql-api#readme",
+  "type": "module"
+}
