@@ -22,5 +22,9 @@
     "url": "https://github.com/sebastian-mcpe/graph-ql-api/issues"
   },
   "homepage": "https://github.com/sebastian-mcpe/graph-ql-api#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.10.1",
+    "graphql": "^16.8.1"
+  }
 }
